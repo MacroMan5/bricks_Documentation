@@ -1,0 +1,100 @@
+# Bricks Builder Documentation Repository - LLM Search Guide
+
+## Repository Overview
+This repository contains comprehensive Bricks Builder documentation extracted from bricksbuilder.io. Bricks is a visual website builder for WordPress that focuses on performance and design flexibility.
+
+## Content Categories
+
+### 1. Documentation (`docs/`)
+- **Getting Started**: Installation, setup, basic concepts
+- **Builder Interface**: Visual editor, canvas, element panels
+- **Elements**: All available building blocks and components
+- **Design System**: Global styles, classes, variables
+- **Dynamic Content**: WordPress integration, custom fields
+
+### 2. Tutorials (`tutorials/`)
+- **Step-by-step Guides**: Complete project walkthroughs
+- **Best Practices**: Recommended workflows and techniques
+- **Advanced Techniques**: Complex builds and optimizations
+
+### 3. Articles (`article/`)
+- **Feature Updates**: New releases and functionality
+- **Tips & Tricks**: Productivity improvements
+- **Case Studies**: Real-world examples and solutions
+
+### 4. Topics (`topic/`)
+- **Specific Features**: Deep dives into individual features
+- **Troubleshooting**: Common issues and solutions
+- **Performance**: Optimization techniques
+
+### 5. Collections (`collection/`)
+- **Curated Content**: Organized sets of related documentation
+- **Resource Libraries**: Templates, snippets, examples
+
+## Search Strategies for LLM Agents
+
+### 1. Building & Design
+**Query patterns:**
+- "How to build [component]" → Look in docs/elements/ or tutorials/
+- "Design system" → Check docs/design-system/ or global styles
+- "Layout [technique]" → Search for flexbox, grid, or layout docs
+
+### 2. WordPress Integration
+**Query patterns:**
+- "Dynamic content" → Look for WordPress integration docs
+- "Custom fields" → Check ACF or meta field documentation
+- "Post loops" → Search for query loop or post display docs
+
+### 3. Performance & Optimization
+**Query patterns:**
+- "Site speed" → Look in performance topics
+- "Optimization" → Check best practices and performance docs
+- "Code output" → Search for clean code or optimization guides
+
+### 4. Troubleshooting
+**Query patterns:**
+- "Not working" → Check troubleshooting topics
+- "Error [type]" → Look for specific error solutions
+- "Browser issues" → Search compatibility docs
+
+## Search Tips for AI Agents
+
+1. **Start with Category**: Identify if it's a tutorial, documentation, or article need
+2. **Element-specific**: Look for specific Bricks elements or components
+3. **WordPress Context**: Consider WordPress-specific implementation
+4. **Use Case Driven**: Search by what you're trying to build
+5. **Progressive Complexity**: Start with basics, then advanced techniques
+
+## Common Search Scenarios
+
+### Getting Started
+- Installation and setup guides
+- First project tutorials
+- Interface orientation
+
+### Element Usage
+- Specific element documentation
+- Element combinations and layouts
+- Advanced element configurations
+
+### Design Implementation
+- Global styles and design systems
+- Responsive design techniques
+- Custom CSS integration
+
+### WordPress Development
+- Dynamic content implementation
+- Custom field integration
+- Theme development with Bricks
+
+### Performance & SEO
+- Site optimization techniques
+- Code quality best practices
+- SEO implementation
+
+## Integration Notes for MCP Server
+- Content organized by complexity and use case
+- Includes practical examples and screenshots
+- WordPress-specific context throughout
+- Performance-focused approach
+- Visual builder methodology emphasized
